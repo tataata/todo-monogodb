@@ -1,0 +1,12 @@
+.App {
+  /* box-sizing: border-box; */
+  height: 100vh;
+
+}
+a {
+  padding: 1rem;
+}
+
+footer {
+  background-color: lightgray;
+}
